@@ -11,5 +11,6 @@ public class LoginTest {
 		System.out.println("Name of the city is: "+city);
 		System.out.println("this is login test class");
 		System.out.println("new comment after ngrok setup for automatic build in jenkins ");
+		System.out.println("new comment to check Poll SCM build for regular time intervals");
 	}
 }
